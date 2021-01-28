@@ -1,2 +1,1 @@
-# Chapter 2
- This is chapter two
+This respository is created for training purpose only. 
